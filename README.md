@@ -1,4 +1,4 @@
-# Natours Application
+# ReStore React Application
 
 Built using React, (includes Hooks), Redux, React, Router, Webpack, Babel
 
